@@ -16,7 +16,15 @@ for (const file of commandFiles) {
 
 client.on('ready', () => {
     console.log("Client is ready")
+	console.log(argv)
 });
+
+const main = () => {
+	console.log("Generating bot")
+	const pwd = path.join(process.cwd())
+
+	}
+}
 
 client.on('message', message => {
 	if (!message.content.startsWith(prefix) || message.author.bot) return;

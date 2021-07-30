@@ -6,7 +6,7 @@
 
 ## ⌨️Installion
 Make sure you have [git](https://git-scm.com/download) and [nodejs](https://nodejs.org/en/) installed
-1. First Part
+1 First Part
     - Open a terminal (cmd on windows) and type in ```git clone https://github.com/chopstickxs/Discord.js-Bot.git```
     - Then type in: ```cd Discord.js-Bot```
     - Then lastly type in: ```npm init -y```
@@ -27,7 +27,7 @@ Make sure you have [git](https://git-scm.com/download) and [nodejs](https://node
     - Once your done choosing some permissions a link will be generated, copy that link and paste it into another tab and a gui will come up
     - Choose the server you want your bot in and it will join
 
-5. Five Part
+5. Five Part.
     - Welp you made it to the end, and your ready to run your own bot!,
     - The last thing to do is to run: ```node bot.js```
 
